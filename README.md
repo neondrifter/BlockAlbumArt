@@ -16,7 +16,7 @@ So let's get started.
 
 Prerequisites:
 - Download AdGuard onto whatever device you use Spotify on. https://adguard.com/en/welcome.html
-- Download the SpotifyBlock file provided above as a .txt file onto your device. Remember where you save the file.
+- Download the SpotifyBlock file provided above as a .txt file onto any device you use Spotify on. Remember where you save the file.
 
 STEPS:
 1. Open and set up AdGuard on your device. No need to subscribe to premium for our purposes.
