@@ -15,7 +15,7 @@ First, the app we're going to use is called AdGuard. There are other DNS Filter 
 So let's get started.
 
 Prerequisites:
-- Download AdGuard onto whatever device you use Spotify on. https://adguard.com/en/welcome.html
+- Download AdGuard onto whatever device you use your music streaming app on. https://adguard.com/en/welcome.html
 
 Which app do you want to block album art in?
 
